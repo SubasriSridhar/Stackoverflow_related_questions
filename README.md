@@ -7,6 +7,7 @@ The objective is to build a model which list the similar or semantically similar
 
 **Model**
 
+![image](https://user-images.githubusercontent.com/34976961/91077350-8b80a680-e65e-11ea-835e-5b322321f1be.png)
 
 
 **Constraints and Future improvement:**
