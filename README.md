@@ -17,6 +17,9 @@ Also due to time constraints, the model is limited to word embedding techniques 
  https://medium.com/analytics-vidhya/building-a-simple-stack-overflow-search-engine-to-predict-posts-related-to-given-query-post-56b3e508520c
  
  https://towardsdatascience.com/improving-the-stack-overflow-search-algorithm-using-semantic-search-and-nlp-a23e20091d4c
+ 
  https://www.microsoft.com/en-us/research/uploads/prod/2019/03/nl4se18LinkSO.pdf
+ 
  https://www.macadamian.com/learn/a-practical-application-of-machine-learning-in-medicine/
+ 
  https://mc.ai/stackoverflow-based-semantic-search-engine/
